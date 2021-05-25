@@ -156,7 +156,7 @@ body {
     width: 30px;
     height: 30px;
     font-size: 20px;
-    color: #FFF;
+    color: #F5F5F5;
     text-decoration: none;
     text-align: center;
     line-height: 48px;
@@ -167,7 +167,7 @@ body {
 }
 
 .model-1 a {
-    background: #fff;
+    background: #F5F5F5;
     border-radius: 100%;
 }
 
